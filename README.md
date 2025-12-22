@@ -22,11 +22,13 @@ Performance: Optimiert auf 0.00ms im Idle und ca. 0.01ms während der Sperre.
 
 Benachrichtigung: Informiert den Spieler, sobald er wieder kampfbereit ist.
 
-📋 Konfiguration (Config.lua) Lua
-
-Config = {} Config.ReviveEvent = 'esx_ambulancejob:revive' Config.CombatBlockTime = 120
+📋 Konfiguration (Config.lua) 
+Config = {} Config.ReviveEvent = 'esx_ambulancejob:revive' 
+Config.CombatBlockTime = 120
 Config.OnlyBucketZero = true
 Config.Debug = false
+
+
 📥 Installation Den Ordner in PuRe_deathtimeout benennen.
 
 Sicherstellen, dass die Config.lua vorhanden ist.
@@ -36,3 +38,5 @@ In der server.cfg nach ox_inventory eintragen: ensure PuRe_deathtimeout.
 🔗 Support & Community Bei Fragen, Fehlern oder Verbesserungsvorschlägen könnt ihr gerne auf meinen Discord kommen: 👉 Discord: https://discord.gg/E4FQTcbXWm
 
 Viel Spaß mit dem Skript! Ich freue mich über euer Feedback.
+
+PREVIEW : https://www.youtube.com/watch?v=9DfcpP4zzyc
