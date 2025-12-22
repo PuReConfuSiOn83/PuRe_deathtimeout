@@ -1,3 +1,4 @@
+local ESX = exports['es_extended']:getSharedObject()
 local combatBlocked = false
 local combatEnd = 0
 local isThreadRunning = false
